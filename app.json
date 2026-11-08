@@ -11,7 +11,7 @@
       "bundleIdentifier": "app.pousse.plants",
       "supportsTablet": true,
       "infoPlist": {
-        "NSCameraUsageDescription": "Camera access",
+        "NSCameraUsageDescription": "Pousse uses your camera to take a photo of a plant so it can identify the species and suggest how to care for it.",
         "NSLocationAlwaysAndWhenInUseUsageDescription": "Pousse uses your location.",
         "NSPhotoLibraryUsageDescription": "Pousse needs your photos to identify your plants."
       }
